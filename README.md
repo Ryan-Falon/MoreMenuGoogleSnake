@@ -8,7 +8,7 @@ Credit is to https://github.com/darksnakegang
 DIRECTIONS:
 
 
-Import MoreMenu.html into bookmarks manager.
+Import MoreMenu.html (found in releases) into bookmarks manager.
 Once imported, make sure bookmarks bar is visible.
 Open Google Snake and click the script, wait 3-5 seconds and go to settings, the modded items should appear.
 
